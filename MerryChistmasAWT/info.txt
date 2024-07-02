@@ -1,0 +1,5 @@
+Prosta aplikacja okienkowa AWT w Javie wyświetlająca kolorową "kartkę
+świąteczną" z okazji Bożego Narodzenia. Załączony tutaj JAR zawiera
+pozdrowienie po polsku, a wersja źródłowa jak i .CLASS - po angielsku. Tekst
+pozdrowienia zawsze można zmienić jako wartość stałej titleStr zdefiniowanej w
+linijce 4 kodu programu.
