@@ -3,3 +3,5 @@ Prosta aplikacja okienkowa AWT w Javie wyświetlająca kolorową "kartkę
 pozdrowienie po polsku, a wersja źródłowa jak i .CLASS - po angielsku. Tekst
 pozdrowienia zawsze można zmienić jako wartość stałej titleStr zdefiniowanej w
 linijce 4 kodu programu.
+
+Rok: 2022
